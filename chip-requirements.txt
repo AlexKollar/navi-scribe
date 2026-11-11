@@ -1,0 +1,3 @@
+# Navi Scribe runs on the Python standard library alone — there is
+# nothing to install and nothing optional. This file exists so the
+# cartridge carries the same shape as every other Apex chip.
